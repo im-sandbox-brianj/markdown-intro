@@ -6,3 +6,7 @@
 ###### Header 6
 
 ![This is am image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+select * from dbo.users
+```
